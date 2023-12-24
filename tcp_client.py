@@ -1,4 +1,4 @@
-
+# wijziging voor pull
 import socket
 target_host = "www.google.com" 
 
